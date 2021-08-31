@@ -49,6 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
++++
+
+<!--
 
 ## 👋 Welcome to the Academic Template
 
@@ -85,4 +88,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
 
-+++
+-->
