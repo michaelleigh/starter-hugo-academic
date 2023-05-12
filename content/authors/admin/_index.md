@@ -1,6 +1,6 @@
 ---
 title: Michael Leigh
-role: Senior Lecturer in pot washing
+role: Senior Lecturer in Pot Washing
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sheffield Hallam University
+    url: https://www.shu.ac.uk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
